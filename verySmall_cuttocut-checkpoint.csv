@@ -1,0 +1,6 @@
+faculty_id,category,FDCDC1,FDCDC2,FDCDC3,FDCDC4
+1,x2,math1,physics1,econ,stats
+2,x1,econ,stats,physics1,math1
+3,x2,physics1,econ,math1,stats
+4,x3,stats,physics1,econ,math2
+5,x1,stats,physics1,econ,math1
